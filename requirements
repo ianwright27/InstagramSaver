@@ -1,0 +1,9 @@
+xsel
+PyQt4, 
+xclip 
+gtk
+
+pyperclip
+clipboard
+python-requests
+python-bs4
