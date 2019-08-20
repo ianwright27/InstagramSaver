@@ -20,7 +20,7 @@ if len(sys.argv) > 1:
     main()
 
 def main():    
-  file = "requirements.txt"
+  file = "requirements"
   libs = []
   
   with open(file, 'r') as f:
